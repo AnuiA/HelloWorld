@@ -1,7 +1,4 @@
 
-
-console.log("   HelloWorld!");
-
 function printT ( T:number ):void {
     var i:number;    
     for(i=1;i<=T;i++) {
